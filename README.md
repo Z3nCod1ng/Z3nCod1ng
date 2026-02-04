@@ -1,30 +1,82 @@
-👋 About Me
-I'm a 22-year-old Software Engineering student currently in my final year, passionate about building innovative software solutions. I love tackling real-world problems with code and am constantly exploring new technologies to enhance my skills.
+# 👋 Hi, I'm Igor
 
-🚀 Skills & Interests
-Languages: C#, Java, Python, SQL, JavaScript
-Frameworks & Tools: .NET, ASP.NET, WinForms, React, Node.js
-Databases: MS SQL Server, MySQL, MongoDB
-Version Control: Git, GitHub
-Other: Object-Oriented Programming (OOP), Data Structures, Algorithms, Web Development
-💼 Current Focus
-Graduation Project: Working on a Library Management System using C# and SQL Server.
-Learning advanced concepts in software architecture and cloud computing.
-Exploring AI/ML and building small-scale projects using Python.
-🌱 What I’m Learning Now
-Cloud platforms like Azure and AWS.
-Design patterns and best practices in large-scale software development.
-📈 Career Goals
-As I approach graduation, I’m excited to kick-start my career in software development. My goal is to work on projects that make a meaningful impact while continuously growing as a developer.
+Final-year Software Engineering student focused on C#, .NET, SQL, and Quality Assurance.  
+I enjoy building real-world applications, testing software, and continuously improving my technical skills.
 
-💡 Featured Projects
-Here are a few of the projects I’ve worked on:
+---
 
-Library Management System
-A C# and SQL-based application to manage book reservations, loans, and user memberships.
+## 🧠 Core Skills
 
-E-commerce Web App
-A React.js web app with a Node.js backend for a pet products dropshipping business.
+**Languages**
+- C#, Java, Python, SQL, JavaScript
 
-Movie Recommendation System
-A machine learning-based recommendation system using Python and Scikit-learn.
+**Frameworks / Tools**
+- .NET Framework / .NET
+- WPF / WinForms
+- React, Node.js (basic)
+- Git / GitHub
+
+**Databases**
+- SQL Server
+- MySQL
+- MongoDB (basic)
+
+**Other**
+- OOP
+- Manual QA Testing
+- Test Cases & Bug Reports
+- Exploratory Testing
+- Basic Algorithms & Data Structures
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Library Management System
+C# + SQL Server desktop application for managing:
+
+- Books
+- Users
+- Reservations
+
+Tech:
+- C#
+- .NET Framework
+- SQL Server
+
+Repo:
+👉 https://github.com/Z3nCod1ng/LibraryManagementSystem
+
+---
+
+### 🧪 Manual QA Testing Web App
+
+Manual QA project demonstrating:
+
+- Test planning
+- Test case design
+- Bug reporting
+- Exploratory testing
+
+Repo:
+👉 https://github.com/Z3nCod1ng/qa-manual-testing-web-app
+
+---
+
+## 🎯 Current Focus
+
+- Finishing university
+- Improving C# / .NET skills
+- Building QA portfolio
+- Learning cloud fundamentals (Azure / AWS basics)
+- Preparing for junior developer / QA roles
+
+---
+
+## 📫 Contact
+
+📧 dev.ig.borisavljevic@gmail.com
+
+---
+
+Thanks for visiting my profile.
