@@ -63,16 +63,6 @@ Repo:
 
 ---
 
-## 🎯 Current Focus
-
-- Finishing university
-- Improving C# / .NET skills
-- Building QA portfolio
-- Learning cloud fundamentals (Azure / AWS basics)
-- Preparing for junior developer / QA roles
-
----
-
 ## 📫 Contact
 
 📧 dev.ig.borisavljevic@gmail.com
