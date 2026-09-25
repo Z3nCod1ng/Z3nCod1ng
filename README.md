@@ -1,32 +1,51 @@
 # 👋 Hi, I'm Igor
 
-Final-year Software Engineering student focused on C#, .NET, SQL, and Quality Assurance.  
-I enjoy building real-world applications, testing software, and continuously improving my technical skills.
+Software Engineering student exploring cybersecurity, software development, and quality assurance.
+
+I have experience with C#, .NET, SQL, JavaScript, Git, and manual software testing. I'm currently building practical cybersecurity foundations through TryHackMe, with a focus on networking, Linux, web security, and ethical hacking.
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Technical Skills
 
-**Languages**
-- C#, Java, Python, SQL, JavaScript
+**Programming**
+- C#, Java, JavaScript, Python, SQL
 
-**Frameworks / Tools**
-- .NET Framework / .NET
-- WPF / WinForms
-- React, Node.js (basic)
-- Git / GitHub
+**Software Development**
+- .NET, WPF, WinForms
+- HTML, CSS, React fundamentals
+- OOP, Git and GitHub
 
 **Databases**
 - SQL Server
 - MySQL
-- MongoDB (basic)
+- MongoDB fundamentals
 
-**Other**
-- OOP
-- Manual QA Testing
-- Test Cases & Bug Reports
-- Exploratory Testing
-- Basic Algorithms & Data Structures
+**Quality Assurance**
+- Manual testing
+- Test cases and bug reports
+- Exploratory testing
+- API testing with Postman
+
+**Cybersecurity — Currently Learning**
+- Networking fundamentals
+- Linux
+- Web security
+- TryHackMe labs
+
+---
+
+## 🔐 Currently Learning
+
+- TryHackMe — Pre Security learning path
+- Networking and web fundamentals
+- Linux fundamentals
+- Offensive and defensive security concepts
+- Ethical hacking in authorized lab environments
+
+My cybersecurity notes and projects will be available here:
+
+👉 Cybersecurity Learning Repository — coming soon
 
 ---
 
